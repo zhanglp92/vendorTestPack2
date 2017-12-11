@@ -2,7 +2,7 @@
 
 
 [[projects]]
-  branch = "master"
+  branch = "v1"
   name = "github.com/zhanglp92/vendorTestPack1"
   packages = ["."]
   revision = "687780109cd314c1249faf090ae0b7db6de005b6"
