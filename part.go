@@ -22,3 +22,8 @@ func (v VendorTestPack2) String() string {
 	return "2"
 	// return fmt.Sprintf("%v", v)
 }
+
+// TestType .
+func TestType(v vendorTestPack1.VendorTestPack1) {
+	vendorTestPack1.TestType(v)
+}

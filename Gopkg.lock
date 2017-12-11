@@ -5,7 +5,7 @@
   branch = "v1"
   name = "github.com/zhanglp92/vendorTestPack1"
   packages = ["."]
-  revision = "687780109cd314c1249faf090ae0b7db6de005b6"
+  revision = "ec5993998077d681e7e1c1e2c17f80a0fd177f9d"
 
 [solve-meta]
   analyzer-name = "dep"
